@@ -35,15 +35,6 @@
                     <goals>install</goals>
                 </configuration>
             </plugin>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-scm-plugin</artifactId>
-                <version>1.11.2</version>
-                <configuration>
-                    <username>amandasoto01</username>
-                    <password>aftpglt1m</password>
-                </configuration>
-            </plugin>
         </plugins>
     </build>
 
